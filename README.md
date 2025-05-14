@@ -32,3 +32,8 @@ Install the necessary packages using the command:
 
 ```bash
 pip install -r requirements.txt
+
+```
+![image](https://github.com/user-attachments/assets/2fd8c5f2-a27b-4f63-a1dd-01c4d76e4798)
+
+
